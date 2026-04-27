@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(node *)",
+      "WebFetch(domain:asciify.org)",
+      "WebSearch",
+      "mcp__OpusCode__understand_image",
+      "Bash(git add *)",
+      "Bash(git remote *)"
+    ]
+  }
+}
